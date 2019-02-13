@@ -36,8 +36,51 @@ Pull-up Transistors : Length--> 200nm,  Height--> 400nm
 Pull –down Transistors : Length--> 200nm, Height--> 600nm
 Access Transistors: Length--> 200nm, Height--> 400nm
 
+One-Bit SRAM 
 
+![One-Bit SRAM](sramcelltestckt_schem.JPG)
 
 Layout Designs:
 
-1)
+1)Sense Amplifier
+
+![Sense Amplifier](senseampcell_lay.JPG)
+
+2)Write Circuit
+
+![Write Circuit](writeckt_lay.JPG)
+
+3)PreCharge Circuit
+
+![PreCharge Circuit](pre_ckt_cell_lay.JPG)
+
+4)Bank select
+
+![Bank select](banksel_lay.JPG)
+
+5)Row Decoder
+
+![Row Decoder](rowdecoder_lay.JPG)
+
+6)SRAM Bank
+
+![SRAM Bank](sram_bank_layout.JPG)
+
+7)Read Mux
+
+![Read Mux](readmuxcell_lay.JPG)
+
+8)Write Mux
+
+![Write Mux](writeckt_full_lay.JPG)
+
+9)6T SRAM
+
+![6T SRAM](6T_layout.JPG)
+
+10)512 Bit SRAM
+
+![512 Bit SRAM](sram_512kb_schem_withcomponents.JPG)
+
+
+
