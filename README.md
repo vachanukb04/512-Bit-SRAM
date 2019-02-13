@@ -78,11 +78,7 @@ Layout Designs:
 
 ![6T SRAM](6T_layout.JPG)
 
-10)512 Bit SRAM
 
-![512 Bit SRAM](sram_512kb_schem_with components.jpg)
-
-End
 
 
 
