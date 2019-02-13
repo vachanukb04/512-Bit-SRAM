@@ -15,8 +15,17 @@ Steps to Design 512-Bit SRAM
 
 512-Bit SRAM architecture
 
+SRAM Architecture
 ![SRAM Architecture](Arch_SRAM.PNG)
+
+Input and output Specification
 ![Input and output Specification](IO_SRAM.PNG)
+
+Sense Amplifier
 ![Sense Amplifier](Sense_Amp.PNG)
+
+Write Data Path
 ![Write Data Path](Write_Data_path.PNG)
+
+Single Bit SRAM design
 ![Single Bit SRAM design](SRAM.PNG)
