@@ -82,7 +82,7 @@ Layout Designs:
 
 ![512 Bit SRAM](sram_512kb_schem_with components.jpg)
 
-
+End
 
 
 
