@@ -29,3 +29,15 @@ Write Data Path
 
 Single Bit SRAM design
 ![Single Bit SRAM design](SRAM.PNG)
+
+The SRAM cell is designed using the 6T model and the sizing is as follows:
+	       
+Pull-up Transistors : Length--> 200nm,  Height--> 400nm
+Pull –down Transistors : Length--> 200nm, Height--> 600nm
+Access Transistors: Length--> 200nm, Height--> 400nm
+
+
+
+Layout Designs:
+
+1)
