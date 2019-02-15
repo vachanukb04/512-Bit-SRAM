@@ -40,7 +40,7 @@ Access Transistors: Length--> 200nm, Height--> 400nm
 
 ![One-Bit SRAM](sramcelltestckt_schem.JPG)
 
-**Layout Designs:
+**Layout Designs:**
 
 **1)Sense Amplifier**
 
